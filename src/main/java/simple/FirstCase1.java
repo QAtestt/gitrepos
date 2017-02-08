@@ -13,6 +13,7 @@ public class FirstCase1 {
 	System.out.println("im in master");
 
 		System.out.println("i have made changes in branch");
+		System.out.println("im done with new branch");
 
 System.out.println("new change in branch");
 	}
