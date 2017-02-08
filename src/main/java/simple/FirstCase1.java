@@ -9,8 +9,7 @@ public class FirstCase1 {
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.pfchangs.com");
 		System.out.println("testing ");
-		System.out.println("i have made changes in branch");
-		System.out.println("im done with new branch");
+		
 
 	}
 
