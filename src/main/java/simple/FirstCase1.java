@@ -17,7 +17,7 @@ public class FirstCase1 {
 		System.out.println("im re-do ing it");
 		System.out.println("im trying for 2ndd time");
 		system.out.println("merging conflict");
-
+		system.out.println("checkin");
 	
 
 System.out.println("im in master");
