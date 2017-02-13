@@ -9,10 +9,7 @@ public class FirstCase1 {
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.pfchangs.com");
 
-<<<<<<< HEAD
-		
-=======
->>>>>>> a05f8b7910260784e5eceb97287b0e08f7250592
+
 	
 
 		
